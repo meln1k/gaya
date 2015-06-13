@@ -2,23 +2,25 @@
 layout: page
 title: About me
 permalink: /about/
-banner_image: sample-banner-image-2.jpg
-banner_image_alt: About me
+# banner_image: sample-banner-image-2.jpg
+# banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+I’m Nikita Melkozerov, software engineer, Scala programmer, and distributed systems developer.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I have solid experience with [Typesafe][typesafe] stack, particularly 
+with [Akka][akka], [Play Framework][play] and [Scala][scala].
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
+Say `Hello` at n.melkozerov@gmail.com or find
 me on
 
 ---
 
 {% include social.html %}
 
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+[typesafe]: http://www.typesafe.com/
+[akka]: http://akka.io/
+[play]: https://www.playframework.com/
+[scala]: http://scala-lang.org/
